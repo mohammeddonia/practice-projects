@@ -7,3 +7,7 @@ Here is some projects where I practiced different types of data analysis and mac
 1.2 Regression
 2. Unsupervised Learning - Clustering
 3. Reinforcement Learning
+
+**Data Sets**
+1. Heart Disease Prediction
+2. DNA Sequencing
